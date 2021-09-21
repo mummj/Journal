@@ -4,6 +4,6 @@
   <p>Use this Journal throughout the school year. </p>
   <p>We will reference this Journal all year long.</p>
   <ol>
-  <li>Item 1: Here is the definition for item 1</li>
-  <li>Item 2: Here is the definition for item 2</li>
+  <li><strong>Item 1:</strong> Here is the definition for item 1</li>
+  <li><strong>Item 2:</strong> Here is the definition for item 2</li>
   </ol>
